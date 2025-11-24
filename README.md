@@ -1,3 +1,8 @@
+# ⚠️ This repository has integrated into 'zerodep-web-push-java' since v2.1.3 and archived.
+
+see:  https://github.com/st-user/zerodep-web-push-java/releases/tag/v2.1.3
+
+
 # zerodep-web-push-java-ext-jwt
 
 Sub-modules for [zerodep-web-push-java](https://github.com/st-user/zerodep-web-push-java) that
